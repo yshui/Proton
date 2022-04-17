@@ -55,3 +55,9 @@
 [submodule "gst-plugins-rs"]
 	path = gst-plugins-rs
 	url = https://gitlab.freedesktop.org/gstreamer/gst-plugins-rs.git
+[submodule "libpsl"]
+	path = libpsl
+	url = https://github.com/rockdaboot/libpsl
+[submodule "libsoup"]
+	path = libsoup
+	url = https://gitlab.gnome.org/GNOME/libsoup.git
